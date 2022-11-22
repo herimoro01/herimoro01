@@ -14,7 +14,7 @@ Vivo en Navojoa, Sonora, México
 ## 🛠 Skills
 
 Las tecnologías que domino:
-1. Python
+1. Python ![Logo](https://cdn.iconscout.com/icon/free/png-256/python-2752092-2284909.png)
 2. SQL
 3. Power BI
 4. Pandas
@@ -23,6 +23,7 @@ Las tecnologías que domino:
 
 
 ![Logo](https://cdn.iconscout.com/icon/free/png-256/python-2752092-2284909.png)
+
 
 
 ## Resumen
