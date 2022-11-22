@@ -2,7 +2,7 @@
 # Hola, soy Heriberto Moroyoqui! 👋
 
 
-## 🚀 About Me
+## 🚀 Acerca de mi
 ### Soy Economista y Analista de Datos
 
 Egresé de la Universidad de Sonora
