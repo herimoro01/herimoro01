@@ -22,7 +22,7 @@ Las tecnologías que domino:
 6. Excel
 
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png) ![Logo](https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png) ![Logo](https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png) ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png) ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png) ![Logo](https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Symbol.png)
+![Logo](https://cdn.iconscout.com/icon/free/png-256/python-2752092-2284909.png)
 
 
 ## Resumen
