@@ -5,7 +5,7 @@
 ## 🚀 Acerca de mi
 ### Soy Economista y Analista de Datos
 
-Egresé de la Universidad de Sonora
+Egresado de la Universidad de Sonora
 
 Vivo en Navojoa, Sonora, México
 
