@@ -14,7 +14,7 @@ Vivo en Navojoa, Sonora, México
 ## Resumen
 👩‍💻 Actualmente trabajo como docente
 
-🧠 Estoy estudiando Machine Learning
+🧠 Estoy aprendiendo: Tableau y Machine Learning
 
 👯‍♀️ Me gustaría colaborar en proyectos de análisis de datos e investigación, ya sea en alguna empresa o en el sector público
 
