@@ -20,11 +20,11 @@ Vivo en Navojoa, Sonora, México
 
 🤔 Me gustaría aprender u obtener ayuda acerca del trabajo en la nube: despliegue de modelos, API's, etc.
 
-💬 Me gustan los temas de Estadística, Economía, Políticas Públicas basadas en Evidencia, además me gusta la historia, las ciencias y andar en bicicleta.
+💬 Me gustan los temas de Economía, Estadística, Políticas Públicas, además me gusta la historia, las ciencias y andar en bicicleta.
 
 📫 Contacto: email: heri.moro1@gmail.com
 
-😄 Me defino como una persona alegre, creativa y comprometida. En la vida hay que tener buen humor y actitud, debemos buscar siempre otros ángulos y nuevas perspectivas, así como hacer las cosas con propiedad, demostrar compromiso, para obtener buenos resultados...
+😄 Me defino como una persona alegre, creativa y comprometida. En la vida hay que tener buen humor y actitud positiva, creo que siempre debemos buscar otros ángulos y nuevas perspectivas, así como hacer las cosas con propiedad, demostrar compromiso, para obtener buenos resultados...
 
 ⚡️ Dato curioso: lo niego rotúndamente, pero "dicen por ahí que ronco como camión de carga" jajaja
 
