@@ -34,12 +34,10 @@ https://github.com/herimoro01/Analisis-finanzas-municipales
 ## 🛠 Skills
 
 Las tecnologías que domino:
-1. Python
-<img src="https://github.com/herimoro01/herimoro01/blob/main/p_python.jpg" alt="alt text" width="200">
+1. Python <img src="https://github.com/herimoro01/herimoro01/blob/main/p_python.jpg" alt="alt text" width="200">
 2. SQL
 3. Power BI
 4. Pandas
 5. Numpy
-6. Excel
-<img src="https://github.com/herimoro01/herimoro01/blob/main/p_excel.jpg" alt="alt text" width="200">
+6. Excel <img src="https://github.com/herimoro01/herimoro01/blob/main/p_excel.jpg" alt="alt text" width="200">
 
