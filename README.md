@@ -41,10 +41,10 @@ Las tecnologías que domino:
 4. Pandas
 5. Numpy
 
-| Nombre | Edad | Ciudad |
+| Python | SQL | Power BI |
 |--------|------|--------|
-| Juan   | 25   | Madrid |
-| Ana    | 30   | París  |
+| <img src="https://github.com/herimoro01/herimoro01/blob/main/p_python.jpg" alt="alt text" width="200"> |  <img src="https://github.com/herimoro01/herimoro01/blob/main/p_sql.jpg" alt="alt text" width="200"> | <img src="https://github.com/herimoro01/herimoro01/blob/main/p_power_bi.jpg" alt="alt text" width="200"> |
+
 
 
 6. Excel
