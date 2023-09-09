@@ -35,15 +35,16 @@ https://github.com/herimoro01/Analisis-finanzas-municipales
 
 Las tecnologías que domino:
 1. Python
-   <img src="https://github.com/herimoro01/herimoro01/blob/main/p_python.jpg" alt="alt text" width="200">
 2. SQL
-   <img src="https://github.com/herimoro01/herimoro01/blob/main/p_sql.jpg" alt="alt text" width="200">
 3. Power BI
-   <img src="https://github.com/herimoro01/herimoro01/blob/main/p_power_bi.jpg" alt="alt text" width="200">
 4. Pandas
-   <img src="https://github.com/herimoro01/herimoro01/blob/main/p_pandas.jpg" alt="alt text" width="200">
 5. Numpy
-    <img src="https://github.com/herimoro01/herimoro01/blob/main/p_numpy.jpg" alt="alt text" width="200">
+    
 6. Excel
-    <img src="https://github.com/herimoro01/herimoro01/blob/main/p_excel.jpg" alt="alt text" width="200">
+<img src="https://github.com/herimoro01/herimoro01/blob/main/p_python.jpg" alt="alt text" width="200">
+<img src="https://github.com/herimoro01/herimoro01/blob/main/p_sql.jpg" alt="alt text" width="200">
+<img src="https://github.com/herimoro01/herimoro01/blob/main/p_power_bi.jpg" alt="alt text" width="200">
+<img src="https://github.com/herimoro01/herimoro01/blob/main/p_pandas.jpg" alt="alt text" width="200">
+<img src="https://github.com/herimoro01/herimoro01/blob/main/p_numpy.jpg" alt="alt text" width="200">
+<img src="https://github.com/herimoro01/herimoro01/blob/main/p_excel.jpg" alt="alt text" width="200">
 
