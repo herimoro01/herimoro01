@@ -41,7 +41,7 @@ Las tecnologías que domino:
 5. Numpy
 6. Excel
 
-
+<img src="https://github.com/herimoro01/herimoro01/blob/main/p_excel.jpg" alt="alt text" width="200">
 ![Logo](https://github.com/herimoro01/herimoro01/blob/main/p_excel.jpg)
 ![Logo](https://cdn.iconscout.com/icon/free/png-256/python-2752092-2284909.png)
 ![Logo](https://www.concurrency.com/getmedia/e0f69a92-832a-4680-b8ae-a1e02407d80a/SQL-Database-(generic).png.aspx?width=256&height=256&ext=.png)
