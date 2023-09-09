@@ -35,17 +35,11 @@ https://github.com/herimoro01/Analisis-finanzas-municipales
 
 Las tecnologías que domino:
 1. Python
+<img src="https://github.com/herimoro01/herimoro01/blob/main/p_python.jpg" alt="alt text" width="200">
 2. SQL
 3. Power BI
 4. Pandas
 5. Numpy
 6. Excel
-
 <img src="https://github.com/herimoro01/herimoro01/blob/main/p_excel.jpg" alt="alt text" width="200">
-![Logo](https://github.com/herimoro01/herimoro01/blob/main/p_excel.jpg)
-![Logo](https://cdn.iconscout.com/icon/free/png-256/python-2752092-2284909.png)
-![Logo](https://www.concurrency.com/getmedia/e0f69a92-832a-4680-b8ae-a1e02407d80a/SQL-Database-(generic).png.aspx?width=256&height=256&ext=.png)
-![Logo](https://software.thaiware.com/upload_misc/software/2020_08/thumbnails/14701_200824140434IQ.png)
-![Logo](https://images.opencollective.com/pandas/6e5c060/logo/256.png)
-![Logo](https://neuraspike.com/wp-content/uploads/2020/11/thumbnail_numpy_tutorial_logo-neuraspike.png.png)
-![Logo](https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo258.png)
+
