@@ -14,11 +14,11 @@ Vivo en Navojoa, Sonora, México
 ## Resumen
 👩‍💻 Actualmente trabajo como docente
 
-🧠 Estoy aprendiendo: Tableau y Machine Learning
+🧠 Estoy aprendiendo: Programación en R y Automatización con Python
 
 👯‍♀️ Me gustaría colaborar en proyectos de análisis de datos e investigación, ya sea en alguna empresa o en el sector público
 
-🤔 Me gustaría aprender u obtener ayuda acerca del trabajo en la nube: despliegue de modelos, API's, etc.
+🤔 Me gustaría aprender u obtener ayuda acerca del trabajo en la nube: ETL, despliegue de modelos, API's, etc.
 
 💬 Me gustan los temas de Economía, Estadística, Políticas Públicas, además me gusta la historia, las ciencias y andar en bicicleta.
 
