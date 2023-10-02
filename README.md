@@ -29,6 +29,9 @@ Vivo en Navojoa, Sonora, México
 En este enlace puedes revisar un ejemplo de un análisis sobre los egresos del año 2018 del municipio en donde vivo.
 https://github.com/herimoro01/Analisis-finanzas-municipales
 
+En este enlace se encuentra un proyecto sobre modelado del desempeño académico de estudiantes de bachillerato por medio de árboles de decisión.
+https://github.com/herimoro01/Modelo_desempeno_academico
+
 ## 🛠 Skills
 
 Las tecnologías que domino:
