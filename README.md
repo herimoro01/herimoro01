@@ -26,6 +26,8 @@ Vivo en Navojoa, Sonora, México
 
 ⚡️ Dato curioso: lo niego rotúndamente, pero "dicen por ahí que ronco como camión de carga" jajaja
 
+## Proyectos 🕵️‍♂️
+
 En este enlace puedes revisar un ejemplo de un análisis sobre los egresos del año 2018 del municipio en donde vivo.
 https://github.com/herimoro01/Analisis-finanzas-municipales
 
