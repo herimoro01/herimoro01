@@ -34,6 +34,8 @@ https://github.com/herimoro01/Analisis-finanzas-municipales
 🎯 En este enlace se encuentra un proyecto sobre modelado del desempeño académico de estudiantes de bachillerato por medio de árboles de decisión.
 https://github.com/herimoro01/Modelo_desempeno_academico
 
+🎯 En el siguiente enlace se encuentra un proyecto de manejo y transformación de datos, el cual se enfoca en la creación de un dataset para el modelado del Idh a partir del gasto municipal en México. https://github.com/herimoro01/creacion_de_dataset_idh
+
 ## 🛠 Skills
 
 Las tecnologías que domino:
