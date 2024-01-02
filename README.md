@@ -28,6 +28,9 @@ Vivo en Navojoa, Sonora, México
 
 ## Proyectos 🕵️‍♂️
 
+🎯 En el siguiente enlace se encuentra un proyecto de extracción de datos financieros del sitio de Yahoo finance.
+https://github.com/herimoro01/extraccion_datos_financieros
+
 🎯 En este enlace puedes revisar un ejemplo de un análisis sobre los egresos del año 2018 del municipio en donde vivo.
 https://github.com/herimoro01/Analisis-finanzas-municipales
 
