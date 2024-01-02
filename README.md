@@ -22,7 +22,7 @@ Vivo en Navojoa, Sonora, México
 
 📫 Contacto: email: heri.moro1@gmail.com
 
-😄 Me defino como una persona alegre, creativa y comprometida. En la vida hay que tener buen humor y actitud positiva, creo que siempre debemos buscar otros ángulos y nuevas perspectivas, así como hacer las cosas con propiedad, demostrar compromiso, para obtener buenos resultados...
+😄 Me defino como una persona alegre, creativa y comprometida. En la vida hay que tener una actitud positiva, creo que siempre debemos buscar otros ángulos y nuevas perspectivas, así como hacer las cosas con propiedad, demostrar compromiso, para obtener buenos resultados...
 
 ⚡️ Dato curioso: lo niego rotúndamente, pero "dicen por ahí que ronco como camión de carga" jajaja
 
